@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 166, 255, 0.507);
+}
+
+
+.display-2{
+    color: rgba(255, 238, 6, 0.886);
+    margin-top: 5px;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+}
