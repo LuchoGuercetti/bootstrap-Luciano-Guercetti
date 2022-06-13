@@ -17,15 +17,15 @@ h2{
     justify-content: space-around ;
 }
 
+
 div p{
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
-div img{
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+main div img{
+    width: 100px;
+    height: 1000px;
 }
 
 footer .container{
@@ -47,3 +47,4 @@ footer div ul li{
 footer div ul li a{
     color: rgba(0, 0, 0, 0.886);
 }
+
